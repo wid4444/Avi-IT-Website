@@ -344,11 +344,11 @@
         </div>
       </div>
 
-      <!-- <div class="person">
+      <div class="person">
 
         <div class="title" id="director">
           <img id="title" src="../assets/TechElevatorPic.jpeg" alt="danny">
-          <h2>Leobardo Martinez-Quiroz | Director...</h2>
+          <h2>Leobardo Martinez-Quiroz | ...</h2>
         </div>
 
         <div class="description">
@@ -358,9 +358,13 @@
             <br>
             -Builded Avi I.T.Website 
             <br>
+            -Builded Avi I.T.Website 
+            <br>
+            -Builded Avi I.T.Website 
+            <br>
           </p>
         </div>
-      </div> -->
+      </div>
    
 
 
