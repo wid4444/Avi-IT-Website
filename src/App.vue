@@ -1,30 +1,37 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+  
+      <header-menu/>
+
+<main>
+  <router-view />
+</main>
+
+  <footer-menu/>
+
 </template>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+
+<script>
+
+import FooterMenu from './components/FooterMenu.vue'
+import HeaderMenu from './components/HeaderMenu.vue'
+
+export default {
+
+  components: {
+     
+    FooterMenu,
+    HeaderMenu,
+    
+  },
+
 }
 
-nav {
-  padding: 30px;
+</script>
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
 
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
-}
+<style scoped lang="scss">
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 </style>
