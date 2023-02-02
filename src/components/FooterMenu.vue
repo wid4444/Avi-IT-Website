@@ -27,9 +27,10 @@
         <!-- <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li> -->
       </ul>
       <div class="made-by">
-        <i id="c" class="fa-regular fa-copyright"></i>
-       <p> &nbsp;2023 Leobardo D. Martinez-Quiroz</p>
-      </div>
+        
+        <p><i id="c" class="fa-regular fa-copyright"></i> &nbsp;Copyright 2023 Avi I.T. LLC <br>
+          All Rights Reserved <br> This site was designed by Leobardo D. Martinez-Quiroz</p>
+       </div>
     </div>
 
   </footer>
@@ -173,12 +174,13 @@ ul li:nth-child(5) a:hover .fab {
 
 .made-by {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-bottom: 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
+  text-align: center;
 }
 #c {
   font-size: 10px;

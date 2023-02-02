@@ -164,7 +164,7 @@
 
         <div class="description">
           <p><strong>Bio:</strong>
-            <br>-Sr. Director Third Party Risk Governance at Freddie Mac
+            <br>-Rob Sr. Director Third Party Risk Governance at Freddie Mac
           </p>
           <p>
             Education:
@@ -322,7 +322,7 @@
         </div>
         <div class="description">
           <p><strong>Bio:</strong>
-            <br> -Chayse Tucker is a dance instructor from Sarasota, Florida.
+            <br> -Chayse is a dance instructor from Sarasota, Florida.
             <br>
             <br> -She has been dancing
             for
@@ -348,20 +348,32 @@
 
         <div class="title" id="director">
           <img id="title" src="../assets/TechElevatorPic.jpeg" alt="danny">
-          <h2>Leobardo Martinez-Quiroz | ...</h2>
+          <h2>Leobardo Martinez-Quiroz | Software Developer</h2>
         </div>
 
         <div class="description">
           <p><strong>Bio:</strong>
             <br>
-            -Attended Tec Elevator
+            -Danny is a bi-lingual individual that immigrated to the United States at 14 years of age.
             <br>
-            -Builded Avi I.T.Website 
             <br>
-            -Builded Avi I.T.Website 
+            -He is a Junior Software Developer.
             <br>
-            -Builded Avi I.T.Website 
             <br>
+            -He attended a 14 week Full Stack Java Software Development boot camp at Tech Elevator. Since then he has learned more languages and has been working on more projects.
+            <br>
+          <br>
+          -He enjoys helping people and working in teams.
+            <br>
+            <br>
+            -He is a self-taught visual artist, photographer and carpenter. 
+            <br>
+            <br>
+            -As a volunteer for Creative District (Wilmington Alliance), he has worked with different groups to paint murals
+            throughout Wilmington.
+            <br>
+            <br>
+            -He volunteered to redesign Avi I.T.'s Website, to gain more skill and encourage more Junior Developers to follow their dreams.
           </p>
         </div>
       </div>
