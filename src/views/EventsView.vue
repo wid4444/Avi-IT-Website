@@ -1,12 +1,12 @@
 <template>
 
   <div class="events">
-    <div class="donate-money">
 
-      <iframe id="degives" src="https://www.degives.org/fundraisers/the-soiree-celebration/embed"
-        frameborder="0"></iframe>
-    </div>
+    <div class="upcoming-events">
+    <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showNav=1&mode=MONTH&title=Avi%20I.T.%20Events&src=YXZpLml0LmNvZGUuZm9yLmZyZWVAZ21haWwuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&color=%230B8043" style="border:solid 1px #777" width="100%" height="450" frameborder="0" scrolling="no"></iframe>
   </div>
+  
+</div>
 </template>
 
 <script>
@@ -23,7 +23,12 @@ export default {
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
 }
-
+.upcoming-events {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  // padding-top: 56.25%;
+}
 .events {
   background: #bde0fe;
   display: flex;

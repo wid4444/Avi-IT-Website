@@ -2,11 +2,11 @@
 
   <div class="courses">
 
-    <div class="upcoming-events">
+    <!-- <div class="upcoming-events">
       <iframe class="calendar" allowfullscreen
         src="https://calendar.google.com/calendar/embed?height=400&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showNav=1&mode=MONTH&title=Avi%20I.T.%20Events&src=YXZpLml0LmNvZGUuZm9yLmZyZWVAZ21haWwuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&color=%230B8043"
         style="border:solid 1px #777" frameborder="0" scrolling="no"></iframe>
-    </div>
+    </div> -->
 
 
     <div class="books">
