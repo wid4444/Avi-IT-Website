@@ -43,7 +43,7 @@
       <div class="person">
 
         <div class="title" id="CEO">
-          <img id="title" src="../assets/CEO.jpg" alt="avi">
+          <img id="title" src="../assets/headshot.jpg" alt="avi">
           <h2>Avi Knotts | Founder & CEO</h2>
         </div>
 
@@ -434,7 +434,7 @@ Second chance employment collaborative  (is this with chase and wilm alliance?) 
       <form action="https://formsubmit.co/Contact@avi-it.org" method="POST">
         <input type="hidden" name="_captcha" value="false">
         <!-- <input type="hidden" name="_next" value="https://localhost:8081/about"> // This will do our thank you page -->
-        <h3>Want to becoming a partner or have questions?</h3>
+        <h3>Want to become a partner or have any questions?</h3>
         <input type="text" name="name" id="name" placeholder="Full Name" required>
         <input type="email" name="email" id="email" placeholder="Email" required>
         <input type="text" name="phone" id="phone" placeholder="Phone Number" required>
@@ -524,7 +524,7 @@ export default {
   align-items: flex-start;
   margin-top: 20px;
   padding: 20px;
-  background: #6a4c93;
+  background: #1982c4;
   color: white;
   border-radius: 15px;
 }

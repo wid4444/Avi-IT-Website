@@ -26,7 +26,7 @@
           <figure class="shadow"><img src="../assets/slideshow/avi6.jpg" /></figure>
           <figure class="shadow"><img src="../assets/slideshow/avi7.jpg" /></figure>
           <figure class="shadow"><img src="../assets/slideshow/avi8.jpg" /></figure>
-          <figure class="shadow"><img src="../assets/slideshow/avi0.jpg" /></figure>
+          <figure class="shadow"><img src="../assets/slideshow/avi0.png" /></figure>
         </div>
       </div>
 

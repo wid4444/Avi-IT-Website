@@ -27,7 +27,8 @@ export default {
   position: relative;
   overflow: hidden;
   width: 100%;
-  // padding-top: 56.25%;
+  border-radius: 15px;
+  border: solid 1px rgb(75, 74, 74);
 }
 .events {
   background: #bde0fe;
