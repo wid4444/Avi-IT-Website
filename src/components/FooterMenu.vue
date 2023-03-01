@@ -29,7 +29,7 @@
       <div class="made-by">
         
         <p><i id="c" class="fa-regular fa-copyright"></i> &nbsp;Copyright 2023 Avi I.T. LLC <br>
-          All Rights Reserved <br> This site was designed by Leobardo D. Martinez-Quiroz</p>
+          All Rights Reserved <br> This website was designed and build by Leobardo D. Martinez-Quiroz</p>
        </div>
     </div>
 
