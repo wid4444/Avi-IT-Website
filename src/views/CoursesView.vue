@@ -13,7 +13,7 @@
       <h3>Book Courses</h3>
 
       <div class="book-courses">
-        <!-- <img class="clase" src="../assets/clase.jpeg" alt="clase"> // Space holder for the flyer in english-->
+        <img class="clase" src="../assets/course.jpeg" alt="clase">
       </div>
 
       <div class="course-list">

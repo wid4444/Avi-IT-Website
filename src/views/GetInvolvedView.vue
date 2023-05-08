@@ -20,6 +20,11 @@
       </div>
     </div>
 
+    <div class="head">
+      <h3>Thank You!</h3>
+      <img id="school" src="../assets/school.jpeg" alt="school">
+      <!-- <a class="button" href="https://forms.gle/euPNrYxJxLQiHyEX9 ">Volunteer</a> -->
+    </div>
 
     <div class="donate-tech">
       <h3>Donate technology in any condition:</h3>
@@ -198,6 +203,12 @@ h3 {
 
 #merch {
   max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+}
+#school {
+  max-width: 100%;
+  width: 1300px;
   height: auto;
   border-radius: 20px;
 }
