@@ -97,8 +97,9 @@ export default {
 }
 
 #degives {
-  width: 100%;
-  height: 400px;
+  max-width: 100%;
+  width: 700px;
+  height: 600px;
   border: 0;
 }
 
