@@ -115,6 +115,7 @@ export default {
   font-size: 20px;
   border-radius: 15px;
   color: black;
+  max-width: 900px;
 }
 
 .social-pay {
@@ -148,7 +149,7 @@ export default {
   margin: 20px;
   background: #3a88e2;
   border-radius: 20px;
-  padding: 20px;
+  padding: 40px;
   color: white;
   text-align: center;
 }
@@ -160,13 +161,10 @@ export default {
   padding: 15px;
   color: rgb(77, 2, 2);
   text-align: center;
+  max-width: 800px;
 }
 
-.donate-tech img {
-  width: 100%;
-  height: auto;
-  border-radius: 15px;
-}
+
 
 .head {
   background: #bde0fe;
@@ -175,10 +173,9 @@ export default {
   justify-content: center;
   align-items: center;
   margin: 20px;
-
   background: #3a88e2;
   border-radius: 20px;
-  padding: 20px;
+  padding: 40px;
   color: white;
 }
 
@@ -197,20 +194,27 @@ h3 {
 
 #volunteer {
   max-width: 100%;
+  width: 900px;
   height: auto;
   border-radius: 20px;
 
-
+}
+.repair {
+  max-width: 100%;
+  width: 900px;
+  height: auto;
+  border-radius: 20px;
 }
 
 #merch {
   max-width: 100%;
+  width: 900px;
   height: auto;
   border-radius: 20px;
 }
 #school {
   max-width: 100%;
-  width: 1300px;
+  width: 900px;
   height: auto;
   border-radius: 20px;
 }
@@ -245,4 +249,13 @@ h3 {
   font-size: 26px;
   text-decoration: none;
 }
+@media screen and (max-width:700px) {
+  .head {
+    padding: 20px;
+  }
+  .donate-tech {
+    padding: 20px;
+  }
+}
+
 </style>

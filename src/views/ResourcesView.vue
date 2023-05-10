@@ -87,6 +87,7 @@ export default {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	align-items: center;
 }
 
 .digital-divide {
@@ -96,9 +97,10 @@ export default {
 	justify-content: center;
 	align-items: center;
 	margin: 20px;
-	padding: 20px;
+	padding: 40px;
 	background: #ffd23f;
 	border-radius: 15px;
+	max-width: 900px;
 }
 
 .about-coding {
@@ -108,14 +110,17 @@ export default {
 	justify-content: center;
 	align-items: center;
 	margin: 20px;
-	padding: 20px;
+	padding: 40px;
 	background: #ffd23f;
 	border-radius: 15px;
+	max-width: 900px;
+	height: auto;
 
 }
 
 .video {
-	width: 90%;
+	max-width: 100%;
+	width: 1800px;
 	height: 600px;
 	margin: 10px 20px;
 	border-radius: 15px;
@@ -128,9 +133,10 @@ export default {
 	justify-content: center;
 	align-items: center;
 	margin: 20px;
-	padding: 20px;
+	padding: 40px;
 	background: #ffd23f;
 	border-radius: 15px;
+	max-width: 900px;
 }
 
 #image {
@@ -171,8 +177,9 @@ export default {
 
 @media screen and (max-width:1024px) {
 	.video {
-		width: 95%;
+		width: 900px;
 		height: 400px;
+		max-width: 100%;
 	}
 }
 
@@ -180,6 +187,15 @@ export default {
 	.video {
 		width: 100%;
 		height: 200px;
+	}
+	.digital-divide {
+		padding: 20px;
+	}
+	.about-coding {
+		padding: 20px;
+	}
+	.why-cs {
+		padding: 20px;
 	}
 }
 </style>

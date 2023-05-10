@@ -99,6 +99,8 @@
 
     <div class="pic-gallery">
       
+      <h1>The Soirée Celebration</h1>
+
       <Slideshow/>
     
     </div>
@@ -110,7 +112,7 @@
 
 <script>
 
-// import Slideshow from './components/Slideshow.vue'
+import Slideshow from '@/components/Slideshow.vue'
 
 export default {
 
@@ -152,5 +154,19 @@ export default {
 .instagram {
   max-width: 100%;
   height: auto;
+}
+.pic-gallery h1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 60px 40px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 55px;
+}
+@media screen and (max-width:700px) {
+  .pic-gallery h1 {
+    font-size: 35px;
+  }
 }
 </style>

@@ -68,10 +68,11 @@ export default {
   margin: 20px;
   margin-bottom: 30px;
   text-align: center;
-  padding: 20px;
+  padding: 40px;
   background: #7209b7;
   color: #8adef8;
   border-radius: 15px;
+  
 }
 
 .internship {
@@ -82,7 +83,7 @@ export default {
   align-items: center;
   margin: 20px;
   text-align: center;
-  padding: 20px;
+  padding: 40px;
   background: #7209b7;
   color: #8adef8;
   border-radius: 15px;
@@ -141,6 +142,7 @@ export default {
 
 #career {
   max-width: 100%;
+  width: 900px;
   height: auto;
   border-radius: 15px;
 }
@@ -155,6 +157,13 @@ export default {
     font-size: 12px;
     border-radius: 20px;
     padding: 15px;
+  }
+  .career-center {
+    padding: 20px;
+
+  }
+  .internship {
+    padding: 20px;
   }
 }
 </style>

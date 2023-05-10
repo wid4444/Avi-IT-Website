@@ -75,8 +75,9 @@ export default {
   background: #ff0091;
   border-radius: 25px;
   color: #bde0fe;
-  padding: 20px;
-  max-width: 100%;
+  padding: 40px;
+  max-width: 900px;
+
 }
 
 .prices {
@@ -92,6 +93,7 @@ export default {
 
 .repair-center {
   max-width: 100%;
+  width: 900px;
   height: auto;
   border-radius: 15px;
 }
@@ -107,6 +109,7 @@ export default {
   border-radius: 25px;
   color: #bde0fe;
   padding: 20px;
+  max-width: 940px;
 }
 
 .button {
@@ -142,5 +145,10 @@ export default {
 
 .button:active {
   transform: scale(0.95);
+}
+@media screen and (max-width:700px) {
+  .technicians {
+    padding: 20px;
+  }
 }
 </style>

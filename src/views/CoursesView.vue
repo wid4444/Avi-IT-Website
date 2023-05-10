@@ -143,7 +143,7 @@ export default {
   margin: 20px;
   background: rgb(56, 190, 54);
   border-radius: 20px;
-  padding: 20px;
+  padding: 40px;
   color: #007f5f;
 }
 
@@ -157,6 +157,7 @@ export default {
 
 .clase {
   max-width: 100%;
+  width: 900px;
   height: auto;
   border-radius: 15px;
 }
@@ -176,5 +177,11 @@ export default {
   position: absolute;
   bottom: 0;
   border-radius: 15px;
+}
+
+@media screen and (max-width:815px) {
+  .books {
+    padding: 20px;
+  }
 }
 </style>

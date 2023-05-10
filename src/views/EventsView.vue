@@ -26,8 +26,13 @@ export default {
 .upcoming-events {
   position: relative;
   overflow: hidden;
-  width: 100%;
+  max-width: 100%;
+  width: 1200px;
+  height: auto;
   border-radius: 15px;
+  // margin: 20px;
+  // padding: 40px;
+  // background: rgb(241, 52, 241);
   border: solid 1px rgb(75, 74, 74);
 }
 .events {
@@ -36,7 +41,7 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 220%;
+  max-width: 100%;
 
 }
 
@@ -61,6 +66,9 @@ export default {
     width: 100%;
     height: 500px;
     border: 0;
+  }
+  .upcoming-events {
+    margin: 20px;
   }
 }
 </style>
