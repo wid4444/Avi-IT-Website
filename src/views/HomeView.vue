@@ -74,7 +74,9 @@ export default {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   min-height: 100vh;
+  padding: 20px;
 }
 
 .mission-statement h2 {
@@ -88,6 +90,7 @@ export default {
 
 .main-picture {
   max-width: 100%;
+  width: 1300px;
   height: auto;
   margin: 10px 20px;
   border-radius: 15px;
@@ -99,6 +102,7 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-bottom: 30px;
 }
 
 .gallery {
@@ -134,6 +138,7 @@ export default {
 
 .video {
   max-width: 100%;
+  width: 1300px;
   height: 500px;
   margin: 10px 20px;
   border-radius: 15px;
@@ -141,7 +146,8 @@ export default {
 
 .map {
   max-width: 100%;
-  height: 300px;
+  width: 1300px;
+  height: 400px;
   margin: 10px 20px;
   border-radius: 15px;
 }

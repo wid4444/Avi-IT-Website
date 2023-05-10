@@ -109,7 +109,7 @@ export default {
 ul {
   position: relative;
   top: -20%;
-  left: 45%;
+  left: 52%;
   transform: translate(-50%, -50%);
   display: flex;
 }
