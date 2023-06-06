@@ -2,6 +2,10 @@
 
   <div class="events">
 
+    <div class="summer">
+      <img class="summer-fun" src="../assets/summer.jpeg" alt="summer-fun">
+    </div>
+
     <div class="upcoming-events">
     <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showNav=1&mode=MONTH&title=Avi%20I.T.%20Events&src=YXZpLml0LmNvZGUuZm9yLmZyZWVAZ21haWwuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&color=%230B8043" style="border:solid 1px #777" width="100%" height="450" frameborder="0" scrolling="no"></iframe>
   </div>
@@ -22,6 +26,26 @@ export default {
   list-style: none;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
+}
+
+.summer {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  background: #ff006e;
+  border-radius: 20px;
+  padding: 40px;
+  margin-bottom: 50px;
+}
+
+.summer-fun {
+  max-width: 100%;
+  width: 900px;
+  height: auto;
+  border-radius: 15px;
 }
 .upcoming-events {
   position: relative;
