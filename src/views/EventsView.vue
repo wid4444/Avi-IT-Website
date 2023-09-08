@@ -3,7 +3,12 @@
   <div class="events">
 
     <div class="summer">
-      <img class="summer-fun" src="../assets/summer.jpeg" alt="summer-fun">
+      <img class="summer-fun" src="../assets/stem.jpeg" alt="summer-fun">
+    </div>
+    <div class="summer">
+      <img class="news" src="../assets/news.jpeg" alt="summer-fun">
+      <img class="news" src="../assets/news1.jpeg" alt="summer-fun">
+    
     </div>
 
     <div class="upcoming-events">
@@ -46,6 +51,13 @@ export default {
   width: 900px;
   height: auto;
   border-radius: 15px;
+}
+.news {
+  max-width: 100%;
+  width: 900px;
+  height: auto;
+  border-radius: 15px;
+  margin-bottom: 5px;
 }
 .upcoming-events {
   position: relative;
