@@ -6,8 +6,8 @@
       <img class="summer-fun" src="../assets/stem.jpeg" alt="summer-fun">
     </div>
     <div class="summer">
-      <img class="news" src="../assets/news.jpeg" alt="summer-fun">
-      <img class="news" src="../assets/news1.jpeg" alt="summer-fun">
+      <img class="news" src="../assets/20230906_222010_0000.png" alt="summer-fun">
+      <img class="news" src="../assets/20230906_222010_0001.png" alt="summer-fun">
     
     </div>
 
