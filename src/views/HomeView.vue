@@ -272,7 +272,11 @@ export default {
 
 @media screen and (max-width:1024px) {
 
-
+  .video {
+		width: 900px;
+		height: 400px;
+		max-width: 100%;
+	}
   .slideshow {
     margin: 30px;
     height: 380px;
@@ -356,6 +360,10 @@ export default {
   h2 {
     font-size: 18px;
   }
+  .video {
+		width: 100%;
+		height: 210px;
+	}
 
   .image {
     width: auto;
