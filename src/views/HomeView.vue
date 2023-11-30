@@ -35,9 +35,14 @@
       <router-link class="gallery" to="/gallery">Gallery</router-link>
     </div>
 
-    <iframe class="video" src="https://youtu.be/sN2KqUWnX8g?feature=shared" title="YouTube video player" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <iframe  class="video" src="https://www.youtube.com/embed/sN2KqUWnX8g?si=4CndBQRujkNLm3uc" title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
     </iframe>
+
+     <!-- <iframe class="video" src="https://www.youtube.com/embed/lYIsdHsOL7Q" title="YouTube video player" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe> -->
+
   <img class="main-picture" src="../assets/OurSolution.jpeg" alt="main-picture">
     <img class="main-picture" src="../assets/OurSolution2.jpeg" alt="main-picture">
     <img class="main-picture" src="../assets/OurSolution3.jpeg" alt="main-picture">
@@ -137,7 +142,7 @@ export default {
 .video {
   max-width: 100%;
   width: 1300px;
-  height: 500px;
+  height: 730px;
   margin: 10px 20px;
   border-radius: 15px;
 }
