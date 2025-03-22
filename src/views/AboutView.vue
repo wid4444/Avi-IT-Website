@@ -57,7 +57,7 @@
             holds many certifications ranging from education to software development.
             <br>
             <br> -She has taught herself 6 programming
-            languages as well as technology repair and currently attends Temple University.
+            languages as well as technology repair and has a bachelor's degree from Temple University. 
             <br>
             <br> -She has spent the past 7 years
             actively volunteering in the community in roles such as a database administrator, choir director, software
@@ -196,46 +196,14 @@
       <div class="person">
 
         <div class="title" id="cmo">
-          <img id="title" src="../assets/COO.jpg" alt="matt">
-          <h2>Matthew Ebron | CMO</h2>
+          <img id="title" src="../assets/COO.jpg" alt="Allen">
+          <h2>Allen Zhao| CMO</h2>
         </div>
         <div class="description">
           <p><strong>Bio:</strong>
-            <br> -Matt is a Medical Diagnostics student at the University of Delaware’s Honors College.
+            <br> -Allen is a graphic designer, web developer, and entrepreneur who blends creativity with strategic marketing to create an impact through marketing and connect with diverse audiences through compelling digital experiences.
             <br>
-            <br> -As an internationally acclaimed and award-winning concert pianist, he has competed both nationally and
-            internationally and has played in the prestigious Carnegie Hall.
-            <br>
-            <br> -Matt’s background in music theory and his
-            performance experience have been essential in his teaching positions, especially, his position as a teacher
-            aid for piano students at a performing arts school where he provided both insights on their performance and
-            mentorship.
-            <br>
-            <br> -Matt is a huge volunteer in the community and is always looking for a new opportunity to give
-            back. He’s volunteered annually at charities such as Toys for Tots and in his volunteering, he has found
-            himself in management positions such as at the St.Elizabeth Ann’s carnival.
-            <br>
-            <br> -He often combines his volunteer
-            work with his talents by providing free accompaniment or his vocal skills to local choirs and organizations,
-            including, the Filipino Youth Choir and many gospel choirs. Moreover, he is known for his work connecting
-            the
-            arts to STEM and education in the community at places such as SMArtSummer.
-            br
-            <br>
-            <br> -Matt has worked in the
-            technology
-            field at places such as Apple, and is an award-winning graphic designer. In 2017, he won 3rd place in the
-            nation for his Graphic Design creation with the Business Professionals of America.
-            <br>
-            <br> -He used his skills in
-            graphic design and technology to teach students in the Red Clay Consolidated School District and surrounding
-            areas.
-            <br>
-            <br> -Matt’s diverse background as a Filipino immigrant and his proficiency in 5 languages (Spanish,
-            Tagalog,
-            Japanese [intermediate], Mandarin [competent], and Korean [competent]) have played a huge role in our global
-            endeavors and have allowed us to reach many.
-
+            <br> - He is pursuing a bachelor's in computer science at Rowan University.
 
 
           </p>
