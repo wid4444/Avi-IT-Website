@@ -196,7 +196,7 @@
       <div class="person">
 
         <div class="title" id="cmo">
-          <img id="title" src="../assets/COO.jpg" alt="Allen">
+          <img id="title" src="../assets/Allen.jpg" alt="Allen">
           <h2>Allen Zhao| CMO</h2>
         </div>
         <div class="description">
@@ -219,18 +219,17 @@
         </div>
         <div class="description">
           <p><strong>Bio:</strong>
-            <br> -Isaiah is a graduate of the University of Delaware, and is close to finishing his
-            master's at Wilmington University.
+            <br> -Isaiah is a graduate of the University of Delaware and has a master's degree from Wilmington University.
             <br>
             <br> -Isaiah has worked with kids since he was 14. He has spent many years
             working as a Camp Counselor, Behavioral Specialist, Dean of Students, Special Education Teacher, Fun
-            Developer, Program Coordinator, Researcher, and volunteering in the community as a Choir Director.
+            Developer, Program Coordinator, Researcher, and volunteer in the community as a Choir Director.
             <br>
             <br> -He
             has
             played a huge role in forming Avi I.T. Isaiah currently works as a Dean of Students at a middle school,
             where
-            he helps students suffering from psychological issues, and manages the structure of the classrooms in the
+            he helps students suffering from psychological issues and manages the structure of the classrooms in the
             school.
             <br>
             <br> -In 2019, Isaiah published an article titled, "Incorporating culturally responsive pedagogy
@@ -243,44 +242,6 @@
         </div>
       </div>
 
-
-      <div class="person">
-
-        <div class="title" id="vice-prsident">
-          <img id="title" src="../assets/regina.png" alt="regina">
-          <h2>Regina Reithii | Vice President</h2>
-        </div>
-        <div class="description">
-          <p><strong>Bio:</strong>
-            <br> -Regina was born and raised in Nakuru, Kenya. She is a proud Delawarean for the
-            last 18
-            years. Growing up in Kenya’s Rift Valley in the ’80s and ’90s exposed Regina to life-changing experiences
-            having witnessed the horrors of political violence; as her hometown, Nakuru was hard hit. While incidents of
-            serious political violence have reduced, previously impacted areas continue to experience lingering effects
-            and security and economic uncertainties.
-            <br>
-            <br> -Over the last 18 years, juggling roles as a student and a
-            single
-            parent, Regina has directly supported over 20 orphans by paying for their education and sponsoring their
-            basic
-            needs, as well as those of their immediate family members.
-            <br>
-            <br> -Through Regina’s leadership, Upendo United
-            Foundation is supporting 5 orphans on a full-time basis with a goal to expand their outreach to 50 children
-            by
-            end of 2021.
-            <br>
-            <br> -Regina is passionate about empowering children through education and imparting
-            income-generating
-            skills. While her efforts are currently focused on making a difference in Nakuru, Kenya; her goal is to
-            extend
-            the outreach to other parts of the country.
-
-
-
-          </p>
-        </div>
-      </div>
 
       <div class="person">
 
