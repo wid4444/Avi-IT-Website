@@ -50,6 +50,7 @@
         <div class="description">
 
           <p><strong>Bio:</strong>
+
             <br> -Avi has taken computer science courses through Drexel University, the College Board,
             Harvard University's online programs and is an alumna of the Girls Who Code Summer Immersions Program.
             <br>
@@ -73,6 +74,7 @@
             <br>
             <br> -She plans on furthering her research
             and publishing her reports.
+
           </p>
         </div>
       </div>
@@ -92,37 +94,37 @@
             Manager:
             <br>
             <br> -Integration and Management Office Aeronautics Research Mission Directorate
-            Mrs. Angela J Mason Butcher currently serves as the Capabilities Manager for the NASA Headquarters
+            Mrs. Angela J Mason Butcher currently serves as the Capabilities Manager for the NASA Headquarters.
             Integration
-            and Management Office (IMO) in the Aeronautics Research Mission Directorate (ARMD) culminating from her
-            inspiring career at NASA. She is responsible for leading high profile and high priority capability
+            and Management Office (IMO) in the Aeronautics Research Mission Directorate (ARMD), culminating in her
+            inspiring career at NASA. She is responsible for leading high-profile and high-priority capability
             management
             integration efforts amongst several Programs, Projects, and Aeronautical Centers within the ARMD portfolio.
-            These capabilities include aircraft, facilities, wind-tunnels, simulators, and high-end computers.
+            These capabilities include aircraft, facilities, wind tunnels, simulators, and high-end computers.
             <br>
             <br> -Prior to
             her role as Capabilities Manager in the IMO, Ms. Mason Butcher was Mission Manager (MM) for future
             spacecraft
             missions within the Earth Science Projects Division at NASA Goddard Space Flight Center (GSFC). She managed
             a
-            combined budget of over $1.2 billion for several missions: Surface Water Ocean Topography (SWOT), 2010-19,
+            the combined budget of over $1.2 billion for several missions: Surface Water Ocean Topography (SWOT), 2010-19,
             Sentinel-6, 2017- 19; Geostationary Coastal and Air Pollution Events (Geo-CAPE); Hyperspectral Infrared
             Imager
             (HyspIRI); and Aerosol-Cloud-Ecosystems (ACE) missions 2010-12, 2015-18. In this capacity, she also managed
-            the Pre- Aerosol - Cloud – Ecosystems (PACE), 2010-14, and the Active Sensing of CO2 Emissions over Nights,
+            the Pre-Aerosol - Cloud – Ecosystems (PACE), 2010-14, and the Active Sensing of CO2 Emissions overnight,
             Days, and Seasons (ASCENDS), 2010-12.
             <br>
             <br> -Angela began her career as a Computer Engineer at the NASA Langley
             Research Center (LaRC). In this role, she was responsible for significant improvements to various systems in
-            the High-Reynolds-Number Aerodynamics Branch as well as the implementation of a new highly reviewed data
-            analysis and plotting system, and the development of an Employee Mobility and Training Program within the
+            the High-Reynolds-Number Aerodynamics Branch, as well as the implementation of a new highly reviewed data
+            analysis and plotting system and the development of an Employee Mobility and Training Program within the
             Applied Aerodynamics Division.
             <br>
             <br> -In 1994, Ms. Mason Butcher began performing research in the LaRC Structural
             Dynamics Branch as an Aerospace Engineer with several accomplishments in experimental investigations on
             aircraft tires and landing gear systems. Using high-quality test data, she validated theoretical predictions
-            of the viscous behavior for a Space Shuttle Orbiter Nose- Gear Tire. These predictions are highly valued by
-            the tire analysis and landing gear community as seen in several publications.
+            of the viscous behavior of a Space Shuttle Orbiter Nose- Gear Tire. These predictions are highly valued by
+            the tire analysis and landing gear community, as seen in several publications.
             <br>
             <br> -She developed and
             implemented a new state-of-the-art Aircraft Landing Dynamics Facility data acquisition system. After earning
@@ -138,7 +140,7 @@
             <br> -In 2005, Ms. Mason Butcher joined the Environmental Test
             Engineering and Integration Branch at NASA’s GSFC. She was the lead Environmental Project Engineer for the
             Solar Dynamics Observatory (SDO) Project. She was responsible for leading the SDO Project’s environmental
-            tests and integration efforts and provided environmental engineering expertise to other projects such as the
+            tests and integration efforts and provided environmental engineering expertise to other projects, such as the
             John Hopkins Applied Physics Laboratory’s New Horizons and the STEREO Spacecraft.
             <br>
             <br> -From 2006 to 2010, she was
@@ -146,7 +148,7 @@
             Polar-orbiting Operational Environmental Satellite System (NPOESS) mission within the Integrated Program
             Office (IPO) at GSFC. She was responsible for directing and managing technical and programmatic tasks for
             the
-            I&T subsystem $149 million annual budget, which included the Electrical Engineering Model Testbed,
+            I&T subsystem's $149 million annual budget, which included the Electrical Engineering Model Testbed,
             Spacecraft
             Integration and Testing, Sensor Payload Accommodations, Mechanical and Electrical Ground System Equipment,
             and
@@ -203,7 +205,43 @@
           <p><strong>Bio:</strong>
             <br> -Allen is a graphic designer, web developer, and entrepreneur who blends creativity with strategic marketing to create an impact through marketing and connect with diverse audiences through compelling digital experiences.
             <br>
+
             <br> - He is pursuing a bachelor's in computer science at Rowan University.
+
+            <br> -As an internationally acclaimed and award-winning concert pianist, he has competed both nationally and
+            internationally and has played in the prestigious Carnegie Hall.
+            <br>
+            <br> -Matt’s background in music theory and his
+            performance experience has been essential in his teaching positions, especially his position as a teacher
+            aid for piano students at a performing arts school where he provided both insights on their performance and
+            mentorship.
+            <br>
+            <br> -Matt is a huge volunteer in the community and is always looking for a new opportunity to give
+            back. He’s volunteered annually at charities such as Toys for Tots, and in his volunteering, he has found
+            himself in management positions, such as at the St.Elizabeth Ann’s Carnival.
+            <br>
+            <br> -He often combines his volunteer
+            work with his talents by providing free accompaniment or his vocal skills to local choirs and organizations,
+            including the Filipino Youth Choir and many gospel choirs. Moreover, he is known for his work connecting
+            the
+            arts to STEM and education in the community at places such as SMArtSummer.
+            br
+            <br>
+            <br> -Matt has worked in the
+            technology
+            field at places such as Apple, and is an award-winning graphic designer. In 2017, he won 3rd place in the
+            nation for his Graphic Design creation with the Business Professionals of America.
+            <br>
+            <br> -He used his skills in
+            graphic design and technology to teach students in the Red Clay Consolidated School District and surrounding
+            areas.
+            <br>
+            <br> -Matt’s diverse background as a Filipino immigrant and his proficiency in 5 languages (Spanish,
+            Tagalog,
+            Japanese [intermediate], Mandarin [competent], and Korean [competent]) have played a huge role in our global
+            endeavors and have allowed us to reach many.
+
+
 
 
           </p>
@@ -219,6 +257,7 @@
         </div>
         <div class="description">
           <p><strong>Bio:</strong>
+
             <br> -Isaiah is a graduate of the University of Delaware and has a master's degree from Wilmington University.
             <br>
             <br> -Isaiah has worked with kids since he was 14. He has spent many years
@@ -230,11 +269,11 @@
             played a huge role in forming Avi I.T. Isaiah currently works as a Dean of Students at a middle school,
             where
             he helps students suffering from psychological issues and manages the structure of the classrooms in the
+
             school.
-            <br>
-            <br> -In 2019, Isaiah published an article titled, "Incorporating culturally responsive pedagogy
+            <br> In 2019, Isaiah published an article titled "Incorporating culturally responsive pedagogy
             within
-            social-emotional learning interventions in urban schools: An international systematic review"
+            social-emotional learning interventions in urban schools: An international systematic review."
 
 
 
@@ -245,28 +284,18 @@
 
       <div class="person">
 
+
         <div class="title" id="treasurer">
           <img id="title" src="../assets/Vice.jpg" alt="chayse">
           <h2>Chayse Tucker | Treasurer </h2>
         </div>
         <div class="description">
           <p><strong>Bio:</strong>
-            <br> -Chayse is a dance instructor from Sarasota, Florida.
-            <br>
-            <br> -She has been dancing
-            for
-            over 7 years and started her teaching career at the age of 14 with multiple award-winning numbers.
-            <br>
-            <br> -She
-            is a
-            graduate of the Jack and Jill of America youth group that focuses on bringing African American mothers and
-            their children together to volunteer and help out in their communities.
-            <br>
-            <br> -Chayse strives to help others
-            and
-            bring happiness in their lives in any way possible. In this case, she is using her skills learned through
-            the
-            Jack and Jill of America youth group and her teaching skills to help the community through Avi I.T.
+            <br> Chayse is a youth dance instructor. She has been dancing
+            for over seven years and started her teaching career at the age of 14 with multiple award-winning numbers.
+            She is a graduate of the Jack and Jill of America youth group that focuses on bringing African-American mothers and
+            their children together to volunteer and help out in their communities. 
+          Chayse strives to help others and bring happiness to their lives in any way possible. She is also amazing at math! 
 
 
           </p>
@@ -283,33 +312,33 @@
         <div class="description">
           <p><strong>Bio:</strong>
             <br>
-            -Danny is a bi-lingual individual that immigrated to the United States at 14 years of age.
+            -Danny is a bi-lingual individual who immigrated to the United States at 14 years of age.
             <br>
             <br>
             -He is a Junior Software Developer.
             <br>
             <br>
-            -He attended a 14 week Full Stack Java Software Development boot camp at Tech Elevator. Since then he has learned more languages and has been working on more projects.
+            -He attended a 14-week Full Stack Java Software Development boot camp at Tech Elevator. Since then, he has learned more languages and worked on more projects.
             <br>
           <br>
           -He enjoys helping people and working in teams.
             <br>
             <br>
-            -He is a self-taught visual artist, photographer and carpenter. 
+            -He is a self-taught visual artist, photographer, and carpenter. 
             <br>
             <br>
             -As a volunteer for Creative District (Wilmington Alliance), he has worked with different groups to paint murals
             throughout Wilmington.
             <br>
             <br>
-            -He volunteered to redesign Avi I.T.'s Website, to gain more skill and encourage more Junior Developers to follow their dreams.
+            -He volunteered to redesign Avi I.T.'s Website to gain more skills and encourage more Junior Developers to follow their dreams.
           </p>
         </div>
       </div>
    
 
 
-    <!-- when you have a secretary this is where the information will go -->
+    <!-- when you have a secretary, this is where the information will go -->
 
     <!-- <div class="person">
     

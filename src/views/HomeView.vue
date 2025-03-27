@@ -7,7 +7,7 @@
 
         <strong>
           <h2>"Establishing a foundation for computer science education among all
-            backgrounds and experiences, in
+            backgrounds and experiences in
             order to mitigate the diversity gap in the computer science field and alleviate
             the digital divide."</h2>
         </strong>
@@ -35,14 +35,17 @@
       <router-link class="gallery" to="/gallery">Gallery</router-link>
     </div>
 
-    <img class="main-picture" src="../assets/OurSolution.jpeg" alt="main-picture">
-    <img class="main-picture" src="../assets/OurSolution2.jpeg" alt="main-picture">
-    <img class="main-picture" src="../assets/OurSolution3.jpeg" alt="main-picture">
-
-    <iframe class="video" src="https://www.youtube.com/embed/lYIsdHsOL7Q" title="YouTube video player" frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <iframe  class="video" src="https://www.youtube.com/embed/sN2KqUWnX8g?si=4CndBQRujkNLm3uc" title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
     </iframe>
 
+     <!-- <iframe class="video" src="https://www.youtube.com/embed/lYIsdHsOL7Q" title="YouTube video player" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe> -->
+
+  <img class="main-picture" src="../assets/OurSolution.jpeg" alt="main-picture">
+    <img class="main-picture" src="../assets/OurSolution2.jpeg" alt="main-picture">
+    <img class="main-picture" src="../assets/OurSolution3.jpeg" alt="main-picture">
     <iframe class="map"
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3067.6353164242323!2d-75.5782999851701!3d39.74784197944844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6fd9fb48e34f9%3A0xd80788eecd90ed87!2s2101%20Lancaster%20Ave%2C%20Wilmington%2C%20DE%2019805!5e0!3m2!1sen!2sus!4v1646194535198!5m2!1sen!2sus"
       style="border:0;" allowfullscreen="" loading="lazy">
@@ -139,7 +142,7 @@ export default {
 .video {
   max-width: 100%;
   width: 1300px;
-  height: 500px;
+  height: 730px;
   margin: 10px 20px;
   border-radius: 15px;
 }
@@ -269,7 +272,11 @@ export default {
 
 @media screen and (max-width:1024px) {
 
-
+  .video {
+		width: 900px;
+		height: 400px;
+		max-width: 100%;
+	}
   .slideshow {
     margin: 30px;
     height: 380px;
@@ -353,6 +360,10 @@ export default {
   h2 {
     font-size: 18px;
   }
+  .video {
+		width: 100%;
+		height: 210px;
+	}
 
   .image {
     width: auto;
