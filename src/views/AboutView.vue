@@ -50,10 +50,31 @@
         <div class="description">
 
           <p><strong>Bio:</strong>
-            <br>Avi is a self-taught programmer, published author, and the founder and CEO of Avi I.T. Inc. She has been teaching computer science locally and abroad for the past four years and has conducted research in the artificial intelligence field pertaining to algorithmic bias. To summarize her research, a racially diverse computer science field could mitigate problems caused by algorithmic biases such as the ones found in facial recognition software. She plans on continuing her research and publishing her reports. 
-Additionally, Avi is the CIO of Upendo United Foundation, a nonprofit organization with a mission to support orphans and vulnerable children in Nakuru, Kenya, by remedying immediate challenges, hoping to extend outreach to other parts of Kenya & Sub-Saharan Africa. The overarching issues plaguing the area are hunger, juvenile homelessness, teenage pregnancies, lack of medical care, and lack of educational opportunities.
-She holds various certifications ranging from app development, cyber security, game development, and website development to certifications in early childhood development. In 2022, Avi published the children's book Technology and Me. Avi wrote this book as an educational resource and a means of encouragement. The book provides a simplified explanation of technology, including how computers and the internet work and what technology allows us to do. Additionally, the book briefly mentions the digital divide and the lack of diversity in the computer science field to spread light on the reality of these issues.
-           
+
+            <br> -Avi has taken computer science courses through Drexel University, the College Board,
+            Harvard University's online programs and is an alumna of the Girls Who Code Summer Immersions Program.
+            <br>
+            <br> -She
+            holds many certifications ranging from education to software development.
+            <br>
+            <br> -She has taught herself 6 programming
+            languages as well as technology repair and has a bachelor's degree from Temple University. 
+            <br>
+            <br> -She has spent the past 7 years
+            actively volunteering in the community in roles such as a database administrator, choir director, software
+            developer, educator, graphic designer, and pianist; moreover, in 2015, she traveled to Montego Bay, Jamaica
+            to
+            pursue volunteer work abroad.
+            <br>
+            <br> -In 2021, Avi began conducting research in the artificial intelligence field
+            pertaining to algorithmic bias. Her current findings and personal experience of late exposure to the
+            computer
+            science field are what motivated her to start Avi I.T. Inc. A 501(c)3 nonprofit organization that works to
+            diversify the computer science field and alleviate the digital divide.
+            <br>
+            <br> -She plans on furthering her research
+            and publishing her reports.
+
           </p>
         </div>
       </div>
@@ -177,13 +198,16 @@ She holds various certifications ranging from app development, cyber security, g
       <div class="person">
 
         <div class="title" id="cmo">
-          <img id="title" src="../assets/COO.jpg" alt="matt">
-          <h2>Matthew Ebron | CMO</h2>
+          <img id="title" src="../assets/Allen.jpg" alt="Allen">
+          <h2>Allen Zhao| CMO</h2>
         </div>
         <div class="description">
           <p><strong>Bio:</strong>
-            <br> -Matt is a Medical Diagnostics student at the University of Delaware’s Honors College.
+            <br> -Allen is a graphic designer, web developer, and entrepreneur who blends creativity with strategic marketing to create an impact through marketing and connect with diverse audiences through compelling digital experiences.
             <br>
+
+            <br> - He is pursuing a bachelor's in computer science at Rowan University.
+
             <br> -As an internationally acclaimed and award-winning concert pianist, he has competed both nationally and
             internationally and has played in the prestigious Carnegie Hall.
             <br>
@@ -219,6 +243,7 @@ She holds various certifications ranging from app development, cyber security, g
 
 
 
+
           </p>
         </div>
       </div>
@@ -232,11 +257,19 @@ She holds various certifications ranging from app development, cyber security, g
         </div>
         <div class="description">
           <p><strong>Bio:</strong>
-            <br> Isaiah is a graduate of the University of Delaware, and he has worked with kids since he was 14. He has spent many years
+
+            <br> -Isaiah is a graduate of the University of Delaware and has a master's degree from Wilmington University.
+            <br>
+            <br> -Isaiah has worked with kids since he was 14. He has spent many years
             working as a Camp Counselor, Behavioral Specialist, Dean of Students, Special Education Teacher, Fun
             Developer, Program Coordinator, Researcher, and volunteer in the community as a Choir Director.
-            <br> He has played a huge role in forming Avi I.T. Isaiah currently works as a Dean of Students at a middle school,
-            where he helps students suffering from psychological issues and manages the structure of the classrooms in the
+            <br>
+            <br> -He
+            has
+            played a huge role in forming Avi I.T. Isaiah currently works as a Dean of Students at a middle school,
+            where
+            he helps students suffering from psychological issues and manages the structure of the classrooms in the
+
             school.
             <br> In 2019, Isaiah published an article titled "Incorporating culturally responsive pedagogy
             within
@@ -251,34 +284,6 @@ She holds various certifications ranging from app development, cyber security, g
 
       <div class="person">
 
-        <div class="title" id="vice-prsident">
-          <img id="title" src="../assets/regina.png" alt="regina">
-          <h2>Regina Reithii | Vice President</h2>
-        </div>
-        <div class="description">
-          <p><strong>Bio:</strong>
-            <br> Regina was born and raised in Nakuru, Kenya. She is a proud Delawarean for the
-            last 18
-            years. Growing up in Kenya’s Rift Valley in the ’80s and ’90s exposed Regina to life-changing experiences, having witnessed the horrors of political violence as her hometown, Nakuru, was hard hit. While incidents of
-            serious political violence has reduced, previously impacted areas continue to experience lingering effects
-            and security and economic uncertainties. Over the last 18 years, juggling roles as a student and a
-            single parent, Regina has directly supported over 20 orphans by paying for their education and sponsoring their
-            basic
-            needs, as well as those of their immediate family members.
-            <br>
-            <br> Through Regina’s leadership, Upendo United Foundation is supporting 140 orphans on a full-time basis with a goal of expanding their outreach. Regina is passionate about empowering children through education and imparting
-            income-generating
-            skills. While her efforts are currently focused on making a difference in Nakuru, Kenya, her goal is to
-            extend
-            the outreach to other parts of the country. She even managed to build a library out of a shipping container. 
-
-
-
-          </p>
-        </div>
-      </div>
-
-      <div class="person">
 
         <div class="title" id="treasurer">
           <img id="title" src="../assets/Vice.jpg" alt="chayse">
