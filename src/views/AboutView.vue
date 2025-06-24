@@ -160,7 +160,7 @@
       <div class="person">
 
         <div class="title" id="director">
-          <img id="title" src="../assets/rob.jpg" alt="rob">
+          <img id="title" src="../assets/rob.jpg" alt="Rob">
           <h2>Rob Teat | Executive Director</h2>
         </div>
 
@@ -208,40 +208,7 @@
 
             <br> - He is pursuing a bachelor's in computer science at Rowan University.
 
-            <br> -As an internationally acclaimed and award-winning concert pianist, he has competed both nationally and
-            internationally and has played in the prestigious Carnegie Hall.
-            <br>
-            <br> -Matt’s background in music theory and his
-            performance experience has been essential in his teaching positions, especially his position as a teacher
-            aid for piano students at a performing arts school where he provided both insights on their performance and
-            mentorship.
-            <br>
-            <br> -Matt is a huge volunteer in the community and is always looking for a new opportunity to give
-            back. He’s volunteered annually at charities such as Toys for Tots, and in his volunteering, he has found
-            himself in management positions, such as at the St.Elizabeth Ann’s Carnival.
-            <br>
-            <br> -He often combines his volunteer
-            work with his talents by providing free accompaniment or his vocal skills to local choirs and organizations,
-            including the Filipino Youth Choir and many gospel choirs. Moreover, he is known for his work connecting
-            the
-            arts to STEM and education in the community at places such as SMArtSummer.
-            br
-            <br>
-            <br> -Matt has worked in the
-            technology
-            field at places such as Apple, and is an award-winning graphic designer. In 2017, he won 3rd place in the
-            nation for his Graphic Design creation with the Business Professionals of America.
-            <br>
-            <br> -He used his skills in
-            graphic design and technology to teach students in the Red Clay Consolidated School District and surrounding
-            areas.
-            <br>
-            <br> -Matt’s diverse background as a Filipino immigrant and his proficiency in 5 languages (Spanish,
-            Tagalog,
-            Japanese [intermediate], Mandarin [competent], and Korean [competent]) have played a huge role in our global
-            endeavors and have allowed us to reach many.
-
-
+  
 
 
           </p>
