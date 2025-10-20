@@ -3,11 +3,11 @@
   <div class="events">
 
     <div class="summer">
-      <img class="summer-fun" src="../assets/stem.jpeg" alt="summer-fun">
+      <img class="summer-fun" src="../assets/STEAM.png" alt="fun-with-STEAM">
     </div>
     <div class="summer">
-      <img class="news" src="../assets/20230906_222010_0000.png" alt="summer-fun">
-      <img class="news" src="../assets/20230906_222010_0001.png" alt="summer-fun">
+      <img class="news" src="../assets/20230906_222010_0000.png" alt="newsletter">
+      <img class="news" src="../assets/20230906_222010_0001.png" alt="newsletter">
     
     </div>
 
