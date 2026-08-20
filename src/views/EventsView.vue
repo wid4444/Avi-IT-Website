@@ -3,7 +3,7 @@
   <div class="events">
 
     <div class="summer">
-      <img class="summer-fun" src="../assets/STEAM.png" alt="fun-with-STEAM">
+      <img class="summer-fun" src="../assets/STEAM26.png" alt="fun-with-STEAM">
     </div>
     <div class="summer">
       <img class="news" src="../assets/20230906_222010_0000.png" alt="newsletter">
